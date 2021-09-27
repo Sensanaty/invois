@@ -1,6 +1,6 @@
-# Vue 3, Vite and Typescript Template
+# invois
 
-This is a starter template for a Vue 3 app with some sensible and often used defaults & features.
+A quick, simple and convenient invoice generator.
 
 ## Features
 

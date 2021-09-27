@@ -1,8 +1,8 @@
 {
-  "name": "vue3-vite-template",
+  "name": "invois",
   "version": "0.0.1",
   "private": false,
-  "description": "A Vite2.x + Vue3 + TypeScript template starter",
+  "description": "Quick and simple invoice generator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
